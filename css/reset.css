@@ -54,7 +54,8 @@ img {
   vertical-align: top;
   width: 100%;
   display: block;
-  object-fit: contain;
+  object-fit: cover;
+  height: 100%;
 }
 
 .blind {
