@@ -77,7 +77,7 @@ header .header_wrap nav ul li + li { margin-left: 2.34vw; }
 
 .sc_intro .slide_container .slide_box { 
     height: 39.06vw; 
-    background-image: url(/img/main.jpg); 
+    background-image: url(./img/main.jpg); 
     background-size: cover; 
     background-position: 50% 50%; 
     position: relative; 
